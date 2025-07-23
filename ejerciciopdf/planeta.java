@@ -115,12 +115,12 @@ public class planeta {
         p1.atributosPlaneta();
         p2.atributosPlaneta();
 
-        p1.desidadPlaneta();
-        p2.desidadPlaneta();
+        System.out.println(p1.desidadPlaneta());
+        System.out.println(p2.desidadPlaneta());
 
-        p1.planetaExterior();
-        p2.planetaExterior();
-
+        System.out.println(p1.planetaExterior());
+        System.out.println(p2.planetaExterior());
+       
 
     }
     
